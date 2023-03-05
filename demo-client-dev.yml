@@ -1,0 +1,4 @@
+integration:
+  demo:
+    root-uri: http://localhost:9502/api
+    message: hello from config-server DEV
